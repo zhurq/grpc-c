@@ -1,4 +1,4 @@
-﻿#region Copyright notice and license
+#region Copyright notice and license
 
 // Copyright 2018 The gRPC Authors
 //
